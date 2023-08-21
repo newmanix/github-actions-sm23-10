@@ -24,6 +24,7 @@ class Calculator{
 	   return num1 / num2;
   }
 
+//Updated Calculator.js
   multiply(num1=0,num2=0){	
    return num1 * num2;
  }
